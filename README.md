@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is a README file... You should always read the README... Otherwise it will be sad... And then what will we commit to fix that?
 
 <!--
 **joshpinto6/joshpinto6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
