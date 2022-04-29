@@ -1,5 +1,12 @@
 ### Hi there 👋
-This is a README file... You should always read the README... Otherwise the README will be sad... And then what would we do?
+This is a README file... You should always read the README... Otherwise the README will be sad... And what would we do then?
+
+🔨 Tools I Use:
+- Firebase
+- Visual Studio Code
+- Godot
+- Github (Obviously..)
+- Postman
 
 <!--
 **joshpinto6/joshpinto6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
