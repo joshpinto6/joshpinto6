@@ -1,5 +1,5 @@
-### Hi there 👋
-This is a README file... You should always read the README... Otherwise the README will be sad... And what would we do then?
+### Hi there, I'm joshpinto6 👋
+This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would have to commit to fix that?
 
 #### 🔬Tools I Use:
 - Firebase
