@@ -5,6 +5,7 @@ This is a README file... You should **always** read the README file... Otherwise
 - Firebase
 - Visual Studio Code
 - Godot
+- Blender
 - Github (Obviously..)
 - Postman
 
