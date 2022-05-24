@@ -10,4 +10,4 @@ This is a README file... You should **always** read the README file... Otherwise
 - Github (Obviously..)
 - Postman
 
-![Metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&calendar=1&base.indepth=false&introduction.title=true&calendar.limit=1&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)
