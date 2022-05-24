@@ -1,4 +1,3 @@
-![Metrics](https://metrics.lecoq.io/joshpinto6?template=classic&base.indepth=false&config.timezone=America%2FNew_York)
 
 ### Hi there, 👋
 This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would have to commit to fix that?
@@ -11,3 +10,4 @@ This is a README file... You should **always** read the README file... Otherwise
 - Github (Obviously..)
 - Postman
 
+![Metrics](https://metrics.lecoq.io/joshpinto6?template=classic&base.indepth=false&config.timezone=America%2FNew_York)
