@@ -4,10 +4,9 @@ This is a README file... You should **always** read the README file... Otherwise
 
 #### 🔬Tools I Use:
 - Firebase
-- Visual Studio Code
 - Godot
 - Blender
-- Github (Obviously..)
+- Aseprite
 - Postman
 
 ![Metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)
