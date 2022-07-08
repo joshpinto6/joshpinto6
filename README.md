@@ -9,11 +9,10 @@ This is a README file... You should **always** read the README file... Otherwise
 - Aseprite
 - Github
 
-
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)
 ![](https://img.shields.io/badge/Aseprite-efefef?style=for-the-badge&logo=aseprite&logoColor=black)
 ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
