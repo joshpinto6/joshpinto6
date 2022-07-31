@@ -36,6 +36,6 @@ This is a README file... You should **always** read the README file... Otherwise
 <details>
   <summary>Metrics and more 📊</summary>
   
-[![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://micahlindley.com)
+[![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://joshpinto6.github.io)
   
 </details>
