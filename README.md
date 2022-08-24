@@ -7,7 +7,7 @@ This is a README file... You should **always** read the README file... Otherwise
 - Firebase
 - Blender
 - Aseprite
-- ✨ Dracula Theme 🧛‍♂️
+- 🧛‍♂️ Dracula Theme
 
 [![](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://joshpinto6.itch.io)
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/joshpinto6)
