@@ -23,6 +23,7 @@ This is a README file... You should **always** read the README file... Otherwise
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![](https://img.shields.io/badge/Python-ffd43b?style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![](https://img.shields.io/badge/R-276dc3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
@@ -30,6 +31,7 @@ This is a README file... You should **always** read the README file... Otherwise
 [![](https://img.shields.io/badge/Kodular-43269b?style=for-the-badge&logo=ai2&logoColor=white)](https://kodular.io)
 [![](https://img.shields.io/badge/Niotron-217edb?style=for-the-badge&logo=niotron&logoColor=white)](https://niotron.com)
 [![](https://img.shields.io/badge/Wordpress-21749b?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com)
+[[](https://img.shields.io/badge/Hugo-EA4C89?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io)
 
 
 
