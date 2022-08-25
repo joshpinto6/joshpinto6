@@ -16,6 +16,7 @@ This is a README file... You should **always** read the README file... Otherwise
 [![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://blender.org)
 [![](https://img.shields.io/badge/Aseprite-efefef?style=for-the-badge&logo=aseprite&logoColor=black)](https://aseprite.org)
 [![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![](https://img.shields.io/badge/Hugo-EA4C89?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io)
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
@@ -31,7 +32,6 @@ This is a README file... You should **always** read the README file... Otherwise
 [![](https://img.shields.io/badge/Kodular-43269b?style=for-the-badge&logo=ai2&logoColor=white)](https://kodular.io)
 [![](https://img.shields.io/badge/Niotron-217edb?style=for-the-badge&logo=niotron&logoColor=white)](https://niotron.com)
 [![](https://img.shields.io/badge/Wordpress-21749b?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com)
-[[](https://img.shields.io/badge/Hugo-EA4C89?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io)
 
 
 
