@@ -2,12 +2,11 @@
 ### Hi there, 👋
 This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that?
 
-#### 🐱 Tools I Use:
+#### 🧰 Tools I Use:
 - Godot
 - Firebase
 - Blender
 - Aseprite
-- Dracula Theme 👻
 
 [![](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://joshpinto6.itch.io)
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/joshpinto6)
