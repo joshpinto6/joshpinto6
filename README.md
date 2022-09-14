@@ -24,7 +24,7 @@ This is a README file... You should **always** read the README file... Otherwise
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![](https://img.shields.io/badge/Hugo-EA4C89?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io)
+<!--[![](https://img.shields.io/badge/Hugo-EA4C89?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io)-->
 [![](https://img.shields.io/badge/Python-ffd43b?style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![](https://img.shields.io/badge/R-276dc3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
