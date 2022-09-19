@@ -3,11 +3,8 @@
 
 This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that?
 
-#### <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> Tools I Use:
-- Godot
-- Firebase
-- Blender
-- Aseprite
+<pre>
+<img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> <b>Tools I Use:</b><ul><br/><li>Godot</li><li>Firebase</li><li>Blender</li><li>Aseprite</li></ul></pre>
 
 <!-- <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png"> text </td></tr></table> -->
 
