@@ -1,12 +1,15 @@
 
-### Hi there, 👋
+### Hi there, <img src="https://user-images.githubusercontent.com/91392083/191121141-db352496-27e2-46d6-923c-6bee904bdb8b.png" valign="center" width=28 height=28>
+
 This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that?
 
-#### 🧰 Tools I Use:
+#### <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> Tools I Use:
 - Godot
 - Firebase
 - Blender
 - Aseprite
+
+<!-- <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png"> text </td></tr></table> -->
 
 [![](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://joshpinto6.itch.io)
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/joshpinto6)
@@ -34,7 +37,9 @@ This is a README file... You should **always** read the README file... Otherwise
 
 
 <details>
-  <summary>Metrics and more 📊 👇</summary>
+  <summary>Metrics and more <img src="https://user-images.githubusercontent.com/91392083/191124936-9068589d-7edf-41d2-91a7-521adaa96c52.png" valign="bottom" width=28 height=28>
+ <img src="https://user-images.githubusercontent.com/91392083/191125082-c44dc00c-110c-4d20-84c9-556dff7d9f6d.png" valign="bottom" height=28 width=28>
+</summary>
   
 [![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://joshpinto6.github.io)
   
