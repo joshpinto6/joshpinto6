@@ -11,7 +11,8 @@ I'm joshpinto6, a developer who enjoys making **videogames** <img height=28 widt
 <!-- <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> -->
 
 
-> <b>🧰 Tools I Use:</b><ul><li>Godot</li><li>Firebase</li><li>Blender</li><li>Aseprite</li></ul>
+> <b><img src="https://user-images.githubusercontent.com/91392083/191326428-0544e58d-b249-4c75-97e1-3284a326203c.png"  width=28 height=28 valign="bottom">
+ Tools I Use:</b><ul><li>Godot</li><li>Firebase</li><li>Blender</li><li>Aseprite</li></ul>
 
 <!-- <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png"> text </td></tr></table> -->
 <!-- ![191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1-removebg-preview](https://user-images.githubusercontent.com/91392083/191126994-02806ae3-513c-4472-ac35-4ee2bd8a2af8.png) -->
