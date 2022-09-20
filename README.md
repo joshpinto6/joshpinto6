@@ -40,6 +40,6 @@ This is a README file... You should **always** read the README file... Otherwise
  <img src="https://user-images.githubusercontent.com/91392083/191125082-c44dc00c-110c-4d20-84c9-556dff7d9f6d.png" valign="bottom" height=28 width=28>
 </summary>
   
-[![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://joshpinto6.github.io)
+[![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://github.com/joshpinto6?tab=achievements)
   
 </details>
