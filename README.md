@@ -46,6 +46,6 @@ I'm joshpinto6, a developer who enjoys making **videogames** <img height=28 widt
  <img src="https://user-images.githubusercontent.com/91392083/191125082-c44dc00c-110c-4d20-84c9-556dff7d9f6d.png" valign="bottom" height=28 width=28>
 </summary>
 
-[![GitHub metrics](https://metrics.lecoq.io/joshpinto6?template=classic&introduction=1&base.indepth=false&introduction.title=true&config.timezone=America%2FNew_York)](https://github.com/joshpinto6?tab=achievements)
+[![GitHub metrics](https://raw.githubusercontent.com/joshpinto6/joshpinto6/main/github-metrics.svg)](https://github.com/joshpinto6?tab=achievements)
 
 </details>
