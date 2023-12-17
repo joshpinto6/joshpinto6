@@ -3,7 +3,7 @@
 
 <!-- This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that? -->
 
-I'm joshpinto6, a developer who develops web and mobile applications. I also enjoy contributing and supporting **open source**/**no-code** software projects!
+I'm joshpinto6, a developer who develops fullstack web and mobile applications using Frameworks and Libraries such as React, Next.js, Svelte, and programs in Javascript and Python. I also enjoy supporting **open source**/**no-code** software projects!
 
 
 
@@ -11,8 +11,6 @@ I'm joshpinto6, a developer who develops web and mobile applications. I also enj
 <!-- <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> -->
 
 
-> <b><img src="https://user-images.githubusercontent.com/91392083/191326428-0544e58d-b249-4c75-97e1-3284a326203c.png"  width=28 height=28 valign="bottom">
- Tools I Use:</b><ul><li>Godot</li><li>Firebase</li><li>Blender</li><li>Aseprite</li></ul>
 <!-- <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png"> text </td></tr></table> -->
 <!-- ![191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1-removebg-preview](https://user-images.githubusercontent.com/91392083/191126994-02806ae3-513c-4472-ac35-4ee2bd8a2af8.png) -->
 [![](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://joshpinto6.itch.io)
