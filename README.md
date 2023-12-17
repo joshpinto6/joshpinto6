@@ -3,9 +3,7 @@
 
 <!-- This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that? -->
 
-I'm joshpinto6, a developer who develops fullstack web and mobile applications using Frameworks and Libraries such as React, Next.js, Svelte, and programs in Javascript and Python. I also enjoy supporting **open source**/**no-code** software projects!
-
-
+I'm joshpinto6, a developer who develops fullstack web and mobile applications using Frameworks and Libraries such as React, Next.js, Node.js Svelte, and programs in Javascript and Python. I also enjoy supporting **open source**/**no-code** software projects!
 
 
 <!-- <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> -->
