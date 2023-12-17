@@ -3,8 +3,7 @@
 
 <!-- This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that? -->
 
-I'm joshpinto6, a developer who enjoys making **videogames** <img height=28 width=28 valign="bottom" src="https://user-images.githubusercontent.com/91392083/191322093-cafea625-6ff5-4fe7-81b8-255773d5d6bf.png"> and **pixel art** <img width=28 height=28 valign="bottom" src="https://user-images.githubusercontent.com/91392083/191322342-9958d93c-5f7e-4ccb-b046-3c775bff4b16.png"> using tools like [**aseprite**](https://aseprite.org) 
-<img width=28 height=29 valign="bottom" src="https://user-images.githubusercontent.com/91392083/193300514-7b8f67f5-b87e-45b6-8a27-940df00db5e7.png"> and [**godot game engine**](https://godotengine.org) <img width=28 height=28 valign="bottom" src="https://user-images.githubusercontent.com/91392083/191322691-68ecd2a3-6b33-46c3-93e5-f39a218c1b7f.png">. I also enjoy contributing and supporting **open source**/**no-code** software projects!
+I'm joshpinto6, a developer who develops web and mobile applications. I also enjoy contributing and supporting **open source**/**no-code** software projects!
 
 
 
