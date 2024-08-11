@@ -3,7 +3,7 @@
 
 <!-- This is a README file... You should **always** read the README file... Otherwise the README will be sad... And what would you have to commit to fix that? -->
 
-I'm joshpinto6, a developer who develops fullstack applications using React, Next.js, and Svelte and writing code in a variety of different programming languages. I also enjoy supporting **open source**/**no-code** software projects!
+I'm joshpinto6, a developer who develops fullstack applications using React, Next.js, and Svelte and writing code in a variety of different programming languages. I also enjoy supporting **open source** software projects!
 
 
 <!-- <img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png" valign="bottom" width=28 height=28> -->
@@ -11,6 +11,8 @@ I'm joshpinto6, a developer who develops fullstack applications using React, Nex
 
 <!-- <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/91392083/191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1.png"> text </td></tr></table> -->
 <!-- ![191122816-de9ec506-59f0-4966-a07a-f3d2437ce1a1-removebg-preview](https://user-images.githubusercontent.com/91392083/191126994-02806ae3-513c-4472-ac35-4ee2bd8a2af8.png) -->
+Technologies (woefully outdated):
+
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshpinto6)
 [![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
 [![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://blender.org)
