@@ -1,1 +1,1 @@
-Typescript enthusiast, open-source contributor and maker. 🐉
+Typescript, Postgres, and SvelteKit enjoyer | free software enthusiast
