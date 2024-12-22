@@ -1,1 +1,1 @@
-Typescript, Postgres, and SvelteKit enjoyer | free software enthusiast
+Linux and typescript enjoyer // Aspiring free software, security enthusiast.
