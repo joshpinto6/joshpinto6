@@ -61,3 +61,6 @@ Technologies (woefully outdated):
 [![GitHub metrics](https://raw.githubusercontent.com/joshpinto6/joshpinto6/main/github-metrics.svg)](https://github.com/joshpinto6?tab=achievements)
 
 </details>
+
+<img src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/8e3545b3-f8f4-4da4-ba9b-79dd56a52cd4.svg"></img>
+<img src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/3c277052-a395-40e1-98df-d8a1431a65c2.svg"></img>
