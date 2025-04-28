@@ -6,6 +6,7 @@
 {
   types: [
     "fullstack developer",
+    "designer",
     "hacker",
   ],
   likes: [
