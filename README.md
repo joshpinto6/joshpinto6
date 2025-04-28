@@ -1,19 +1,32 @@
 <!-- Animated 3D Emojis are from Microsoft Fluent Emoji Library: https://github.com/microsoft/fluentui-emoji (MIT License)-->
-### Ahoy, <img src="https://user-images.githubusercontent.com/91392083/191121141-db352496-27e2-46d6-923c-6bee904bdb8b.png" valign="center" width=28 height=28>
+## Ahoy, <img src="https://user-images.githubusercontent.com/91392083/191121141-db352496-27e2-46d6-923c-6bee904bdb8b.png" valign="center" width=28 height=28>
 
-## About me:
+### `about`
+```typescript
+{
+  types: [
+    "fullstack developer",
+    "hacker",
+  ],
+  likes: [
+    "free software",
+    "mornings",
+    "problem solving",
+  ]
+}
+```
 
-### Uses:
+### `uses`
 
 - **Text Editing / IDE:**
 ![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/Logseq-85C8C8?logo=logseq&logoColor=white) 
+![](https://img.shields.io/badge/Logseq-black?logo=logseq&logoColor=85C8C8) 
 ( formerly: ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual_studio_code&logoColor=white) ![](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white) )
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white) 
-![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) 
+![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white) 
 
 
-- **Web/Email Browsing:**
+- **Web Browsing / Productivity:**
 ![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white)
 ( formerly:
 ![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)
@@ -21,6 +34,7 @@
 ![](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)
 )
 ![](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)
+![](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)
 
 - **Terminal:**
 ![](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=white) 
@@ -54,9 +68,10 @@
 ![](https://img.shields.io/badge/Thunkable-ef5048) 
 ![](https://img.shields.io/badge/App_Inventor-a4cf46) 
 )
+![](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=white)
 ![](https://img.shields.io/badge/Hugo-EA4C89?logo=hugo&logoColor=white)
 ![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
-
 
 - **Backend Dev:**
 [![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
@@ -80,7 +95,6 @@
 ![](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-
 - **GameDev, Editing, and Design:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
 ( formerly: ![](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white) )
@@ -88,7 +102,8 @@
 ![](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
 [![](https://img.shields.io/badge/Aseprite-efefef?logo=aseprite&logoColor=black)](https://aseprite.org)
 ![](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
-![](https://img.shields.io/badge/affinity-%231B72BE.svg?logo=affinity-designer&logoColor=white)
+![](https://img.shields.io/badge/Affinity-%231B72BE.svg?logo=affinity-designer&logoColor=white)
+![](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Paint.NET-ffffff?logo=paint.net&logoColor=black)
 ![](https://img.shields.io/badge/FireAlpaca-fe7313?logo=firealpaca&logoColor=white)
