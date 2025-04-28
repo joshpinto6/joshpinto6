@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ( ![](https://img.shields.io/badge/LazyVim-2E7DE9?logo=lazyvim&logoColor=white) )
 ![](https://img.shields.io/badge/Logseq-85C8C8?logo=logseq&logoColor=white) 
-( formerly: [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual_studio_code&logoColor=white)](https://code.visualstudio.com) )
+( formerly: ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual_studio_code&logoColor=white) ![](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white) )
 
 - **Web/Email Browsing:**
 ![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white) (
@@ -50,6 +50,9 @@ formerly: ![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&lo
 ![](https://img.shields.io/badge/Thunkable-ef5048) 
 ![](https://img.shields.io/badge/App_Inventor-a4cf46) 
 )
+![](https://img.shields.io/badge/Hugo-EA4C89?logo=hugo&logoColor=white)
+![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+
 
 - **Backend Dev:**
 [![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
@@ -97,18 +100,4 @@ formerly: ![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&lo
 [![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 ![](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
 
-<!--[![](https://img.shields.io/badge/Hugo-EA4C89?logo=hugo&logoColor=white)](https://gohugo.io)-->
 
-
-
-<details>
-  <summary>Metrics and more <img src="https://user-images.githubusercontent.com/91392083/191124936-9068589d-7edf-41d2-91a7-521adaa96c52.png" valign="bottom" width=28 height=28>
- <img src="https://user-images.githubusercontent.com/91392083/191125082-c44dc00c-110c-4d20-84c9-556dff7d9f6d.png" valign="bottom" height=28 width=28>
-</summary>
-
-[![GitHub metrics](https://raw.githubusercontent.com/joshpinto6/joshpinto6/main/github-metrics.svg)](https://github.com/joshpinto6?tab=achievements)
-
-</details>
-
-<img src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/8e3545b3-f8f4-4da4-ba9b-79dd56a52cd4.svg"></img>
-<img src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/3c277052-a395-40e1-98df-d8a1431a65c2.svg"></img>
