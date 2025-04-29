@@ -85,7 +85,6 @@
 [![](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](https://hono.dev/)
 [![](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](https://orm.drizzle.team/)
-( formerly: [![](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)](https://www.prisma.io/) )
 [![](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=ffffff)](https://trpc.io/)
 [![](https://img.shields.io/badge/Lucia_Auth-5F57FF?logo=lucia&logoColor=white)](https://lucia-auth.com/)
 [![](https://img.shields.io/badge/Supabase-181818?logo=supabase&logoColor=white)](https://supabase.com/)
@@ -93,6 +92,7 @@
 ( formerly:
 [![](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 )
 [![](https://img.shields.io/badge/Python-ffd43b?logo=python&logoColor=black)](https://www.python.org/)
