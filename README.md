@@ -79,9 +79,9 @@
 )
 
 - **Backend Dev:**
-[![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)](https://deno.land/)
-[![](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](https://hono.dev/)
 [![](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](https://orm.drizzle.team/)
