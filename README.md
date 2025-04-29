@@ -120,7 +120,6 @@
 [![](https://img.shields.io/badge/WSL-4EAA25?logo=wsl&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org)
 [![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)](https://fedoraproject.org/)
 [![](https://img.shields.io/badge/Raspbian-A22846?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/)
 [![](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white)](https://www.android.com/)
 [![](https://img.shields.io/badge/FDroid-1976D2?&logo=fdroid&logoColor=white)](https://f-droid.org/)
