@@ -111,8 +111,6 @@
 [![](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)](https://www.aseprite.org/)
 [![](https://img.shields.io/badge/Affinity-%231B72BE.svg?logo=affinity-designer&logoColor=white)](https://affinity.serif.com/en-us/designer/)
 [![](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)](https://excalidraw.com/)
-[![](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![](https://img.shields.io/badge/Paint.NET-ffffff?logo=paint.net&logoColor=black)](https://www.getpaint.net/)
 [![](https://img.shields.io/badge/FireAlpaca-fe7313?logo=firealpaca&logoColor=white)](https://firealpaca.com/)
 
 - **DX:**
