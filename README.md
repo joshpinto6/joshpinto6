@@ -115,7 +115,7 @@
 [![](https://img.shields.io/badge/Paint.NET-ffffff?logo=paint.net&logoColor=black)](https://www.getpaint.net/)
 [![](https://img.shields.io/badge/FireAlpaca-fe7313?logo=firealpaca&logoColor=white)](https://firealpaca.com/)
 
-- **Developer Experience:**
+- **DX/Environment:**
 ![](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 [![](https://img.shields.io/badge/WSL-4EAA25?logo=wsl&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org)
