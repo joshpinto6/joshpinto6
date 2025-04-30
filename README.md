@@ -87,7 +87,7 @@
 [![](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=ffffff)](https://trpc.io/)
 [![](https://img.shields.io/badge/Lucia_Auth-5F57FF?logo=lucia&logoColor=white)](https://lucia-auth.com/)
 [![](https://img.shields.io/badge/Supabase-181818?logo=supabase&logoColor=white)](https://supabase.com/)
-[![](https://img.shields.io/badge/Socket.IO-F38020?logo=socketdotio&logoColor=white)](https://www.cloudflare.com/)
+[![](https://img.shields.io/badge/Socket.IO-000000?logo=socketdotio&logoColor=white)](https://socket.io/)
 ( formerly:
 [![](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -104,7 +104,7 @@
 - **Creative:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
 ( formerly: [![](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white)](https://scratch.mit.edu) )
-[![](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)](https://blender.org)
+[![](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://blender.org)
 [![](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 [![](https://img.shields.io/badge/Aseprite-efefef?logo=aseprite&logoColor=black)](https://aseprite.org)
 [![](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)](https://www.aseprite.org/)
