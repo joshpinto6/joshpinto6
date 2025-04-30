@@ -61,7 +61,8 @@
 ( rarely: 
 [![](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 )
-[![](https://img.shields.io/badge/Flutter-20232A?logo=react&logoColor=61DAFB)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=61DAFB)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 [![](https://img.shields.io/badge/Material-757575?&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 [![](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=ffffff)](https://expo.dev/)
@@ -95,7 +96,7 @@
 [![](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 )
-[![](https://img.shields.io/badge/Python-ffd43b?logo=python&logoColor=black)](https://www.python.org/)
+[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![](https://img.shields.io/badge/Java-e76f01?logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white)](https://www.r-project.org/)
