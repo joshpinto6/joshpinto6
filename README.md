@@ -11,7 +11,7 @@
   ],
   likes: [
     "free software",
-    "mornings",
+    "trivia",
     "problem solving",
   ]
 }
