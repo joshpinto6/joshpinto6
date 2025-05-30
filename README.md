@@ -11,8 +11,8 @@
   ],
   likes: [
     "free software",
+    "typography",
     "trivia",
-    "problem solving",
   ]
 }
 ```
