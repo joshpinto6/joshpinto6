@@ -7,7 +7,7 @@
   types: [
     "fullstack developer",
     "designer",
-    "hacker",
+    "developer",
   ],
   likes: [
     "free software",
