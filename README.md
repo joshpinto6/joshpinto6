@@ -66,6 +66,7 @@
 ![](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
 [![](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=white)](https://mdxjs.com/)
 [![](https://img.shields.io/badge/Hugo-EA4C89?logo=hugo&logoColor=white)](https://gohugo.io/)
+[![](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/)
 ( formerly: [![](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=ffffff)](https://mui.com/)
 [![](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)](https://capacitorjs.com/)
