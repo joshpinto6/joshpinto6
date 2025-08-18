@@ -137,8 +137,4 @@
 
 ### `does`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" width="100%" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/48e1fd74-a49c-4958-8590-8ff76153ad38.svg">
-  <source media="(prefers-color-scheme: light)" width="100%" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
-  <img alt="Fallback image description" src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
-</picture>
+<img src="https://waka.hackclub.com/api/activity/chart/U07VA44DNBA.svg" />
